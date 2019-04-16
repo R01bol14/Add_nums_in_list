@@ -2,6 +2,8 @@
 
 Use the commands below on terminal to run the code
 
+``pip install -r requirements.txt``
+
 ``export FLASK_APP=app.py``
 
 ``flask run``
